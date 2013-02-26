@@ -30,7 +30,7 @@ doing the following (replace the sab folder with your own)...
     wget https://github.com/Insodus/mbMovieProc/archive/master.zip
     unzip master.zip
     cd mbMovieProc
-    cp *.py *.cfg ~/.sabnzbd/scripts/
+    cp mbMovieProc.cfg mbMovieProc.py mbMovieReceiver.py ~/.sabnzbd/scripts/
 
 Once this is complete, you must go to your scripts folder and update the config
 file for your setup.  Edit mbMovieProc.cfg and look at the first few properties.
